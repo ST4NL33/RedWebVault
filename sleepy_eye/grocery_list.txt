@@ -14,3 +14,4 @@ harrysdarkweb: Comments left by 'A.Z.', old SSR asset?
 harrysdarkweb: Logs mention an underground lab, long since sealed.
 web_slinger: Found silhouette of a base in satellite shots. Forested.
 harrysdarkweb: Auth log matches to known SSR ghosts. Classic HYDRA.
+Harrysdarkweb: Coded bypass for encrypted shell—target directory says CLHQ.
