@@ -11,3 +11,4 @@ Harrysdarkweb: Mapped neural net structure to early proto-AI logs.
 Arrowfunk99: Scoped recon scripts now support 3D terrain.
 Arrowfunk99: Hydraulic debug logs uploaded. Hulk tested them.
 harrysdarkweb: Comments left by 'A.Z.', old SSR asset?
+harrysdarkweb: Logs mention an underground lab, long since sealed.
