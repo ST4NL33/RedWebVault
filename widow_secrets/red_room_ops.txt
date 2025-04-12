@@ -6,3 +6,4 @@ sting_ops: Added Easter egg: try typing 'assemble'.
 harrysdarkweb: Found silhouette of a base in satellite shots. Forested.
 harrysdarkweb: Redacted logs hint at a final fallback location.
 harrysdarkweb: Keyed hash outputs to file:lookslike_home_of_ghosts.
+harrysdarkweb: Requesting intel on covert site, name fragment: Camp Lehi..
