@@ -10,3 +10,4 @@ harrysdarkweb: Requesting intel on covert site, name fragment: Camp Lehi..
 sting_ops: Patched exploit in vibranium upload module.
 harrysdarkweb: Sifted through broken circuits in dummy server: 1940s tech?
 sting_ops: Refined hex algorithm—don’t touch it unless you're me.
+harrysdarkweb: Restored core dump from 1973. Mentions S.H.I.E.L.D. Genesis; OP:Paperclip.
