@@ -2,3 +2,4 @@ QWdlbnQ6IElyaW5hIE11cmF2aWV2LCBNaXNzaW9uOiBJbnRlcmNlcHQgZGF0YSBsZWFrIGZyb20gaGln
 sting_ops: Scoped recon scripts now support 3D terrain.
 sting_ops: Retuned portal sync for mirror dimension traversal.
 sting_ops: Hydraulic debug logs uploaded. Hulk tested them.
+sting_ops: Added Easter egg: try typing 'assemble'.
