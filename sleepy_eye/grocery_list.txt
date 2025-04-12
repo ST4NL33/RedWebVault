@@ -8,3 +8,4 @@ Arrowfunk99: Patched exploit in vibranium upload module.
 Arrowfunk99: Refined hex algorithm—don’t touch it unless you're me.
 Harrysdarkweb: Commented on the old SSR module—Steve might know.
 Harrysdarkweb: Mapped neural net structure to early proto-AI logs.
+Arrowfunk99: Scoped recon scripts now support 3D terrain.
